@@ -1,3 +1,9 @@
+/**
+ * A simple number guessing game. Reach 10 points to win.
+ *
+ * @author Fatih Emre Bozkurt
+ * @version 1.0
+ */
 import java.util.Scanner;
 //imports scanner
 public class özelp_01 {
